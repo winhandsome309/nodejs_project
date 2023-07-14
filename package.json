@@ -1,0 +1,29 @@
+{
+  "name": "nodejs_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "nodejs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winhandsome309/nodejs_project.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "winhandsome",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winhandsome309/nodejs_project/issues"
+  },
+  "homepage": "https://github.com/winhandsome309/nodejs_project#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
